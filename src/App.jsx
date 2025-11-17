@@ -521,7 +521,7 @@ export default function App() {
       </CardHeader>
       <CardContent>
         <p className="text-center text-muted-foreground">
-          Practice your flirting skills. Get instant, AI-powered feedback to build your confidence. No stakes, just improvement.
+          Practice your texting skills. Get instant, AI-powered feedback to build your confidence. No stakes, just improvement.
         </p>
         {errorMessage && (
           <Alert variant="destructive" className="mt-4">
