@@ -16,7 +16,7 @@ WarriorWit is a **safe, judgment-free practice space** where you can:
 - Build confidence in casual conversation
 - Learn what works (and what doesn't) before the stakes are real
 
-No cringe screenshots. No awkward saved chats. Just you, AI feedback, and steady improvement.
+No cringe screenshots. No awkward saved chats. Promise.
 
 ---
 
@@ -82,7 +82,7 @@ No cringe screenshots. No awkward saved chats. Just you, AI feedback, and steady
 
 ## 🎓 Built for Waterloo Warriors
 
-This app was created with University of Waterloo engineering students in mind - the brilliant minds who can solve differential equations but get nervous when someone texts "haha yeah."
+This app was created with University of Waterloo engineering students in mind. The people who can solve differential equations but get nervous when someone texts "haha yeah".
 
 **You're not alone.** Social skills are learnable, just like coding. WarriorWit is your personal training ground.
 
