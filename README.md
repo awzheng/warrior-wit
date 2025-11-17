@@ -2,7 +2,7 @@
 
 > **"Texting feels like a game. Why not practice it?"**
 
-An AI-powered texting practice app designed to help University of Waterloo students (and beyond!) level up their conversation game. 
+An AI-powered texting practice app designed to help University of Waterloo students (and beyond) level up their conversation game. 
 Built for awkward engineers who can debug code but freeze up when it's another human behind the screen 🫠
 Yes I made this in November...
 
